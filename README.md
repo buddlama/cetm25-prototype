@@ -13,7 +13,7 @@ overview, and data journalists seeking evidence-based reporting material.
 ## Project structure
 
 ```
-cetm72-datascience-assignment-two/
+cetm25-prototype/
 ├── app.py                          Home page (entry point)
 ├── requirements.txt                Pinned Python dependencies
 ├── utils/
